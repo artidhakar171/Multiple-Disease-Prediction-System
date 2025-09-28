@@ -11,7 +11,7 @@ For training the models, we provide a labelled dataset containing medical data, 
 
 Credits
 
-This project was developed by Aashish Tharu Gamuwa.
+This project was developed by Arti.
 
 Feel free to fork the repository, suggest improvements, or contribute!
 
